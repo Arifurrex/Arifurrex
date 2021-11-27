@@ -25,5 +25,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <a href="https://www.youtube.com/watch?v=0camvFaFCSk&t=206s" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](hhttps://youtu.be/0camvFaFCSk/0.jpg)](https://youtu.be/0camvFaFCSk)
 
