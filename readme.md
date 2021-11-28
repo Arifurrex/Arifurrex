@@ -50,27 +50,6 @@
 
 
 
-
-### Hi there , I'm Arifur [web profile][https://arifurrahman.netlify.app/]
-
-#### ### Hi there 👋, my name is arifur
-#### Designer and Developer
-
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arifurrec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/arifurrex)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/r_if99)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arifurrahman.netlify.app/)  
-
-
-
-
-
-
-
-[![Arifur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifurrex)](https://github.com/arifurrex/github-readme-stats)
-
-
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 
