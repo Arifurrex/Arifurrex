@@ -1,3 +1,4 @@
+![Designer and Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 <h2> Hey there! I'm Aditya.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -54,7 +55,7 @@
 
 #### ### Hi there 👋, my name is arifur
 #### Designer and Developer
-![Designer and Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Hi there! I'm Arifur Rahman from Sylhet, Bangladesh. I currently work as a web developer at alinessa business solution. I have many years experience creating software, mobile apps and websites for both myself, and for clients. I have experience programming in many different languages such as Java, PHP.
 
