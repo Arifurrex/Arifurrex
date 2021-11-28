@@ -48,6 +48,7 @@
 
 
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifurrex&layout=compact)](https://github.com/arifurrex)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
