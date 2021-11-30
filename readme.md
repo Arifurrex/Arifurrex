@@ -1,4 +1,4 @@
-![Designer and Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Designer and Developer](https://github.com/Arifurrex/Arifurrex/blob/master/arifur.png)
 <h2> Hey there! I'm Arifur rahman.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
