@@ -34,7 +34,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![sublime Text](https://img.shields.io/badge/-sublimeText-333333?style=flat&logo=sublimetext)
-  ![Brackets](https://img.shields.io/badge/-Brackets-333333?style=flat&logo=Brackets-ide&logoColor=2C2255)
+  ![Brackets](https://img.shields.io/badge/-Brackets-333333?style=flat&logo=brackets-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
